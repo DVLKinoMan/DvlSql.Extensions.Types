@@ -9,6 +9,9 @@
     <PackageLicenseFile>license.txt</PackageLicenseFile>
     <Description>Extension Helpers for DvlSqlType and DvlSqlParameter in DvlSql Package</Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/DVLKinoMan/DvlSql.Extensions.Types</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/DVLKinoMan/DvlSql.Extensions.Types</RepositoryUrl>
+    <PackageTags>DvlSql, DvlSqlType, DvlSqlParameter, Extensions</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
